@@ -17,7 +17,7 @@ Carefully follow the instructions below to setup your assignment repository.
 ## General Rules and Instructions
 
 ### Plagiarism Note and Late Policy
-Copying code (either from other students or from external sources) is strictly prohibited! Late submissions will generally not be accepted. In case of serious illness or emergency, please notify TA team under `[TODO: EMAIL HERE]`
+Copying code (either from other students or from external sources) is strictly prohibited! Late submissions will generally not be accepted. In case of serious illness or emergency, please notify TA team under `matthew.t.khoo.25@dartmouth.edu`
 
 ### Publishing Code on Personal Git Repositories
 We explicitly ask you to not create any public repositories containing copies of these assignments or solutions to them. In any case do not include any terms that are identifiably related to this course and make the repository easily searchable.
@@ -46,7 +46,7 @@ git clone --recursive https://github.com/ENGS-96-summer25/engs96-'Your_Git_Usern
 
 Next, cd into the newly created folder, and add the base assignment repository as a remote:
 ```
-cd engs-96-'Your_Git_Username'
+cd engs96-'Your_Git_Username'
 git remote add base https://github.com/ENGS-96-summer25/engs96-template.git
 git pull base main --allow-unrelated-histories
 ```
@@ -56,7 +56,7 @@ git add README.md
 git commit -m "Adjust README.md"
 git push
 ```
-You should now be able to see your name online on your private repository: https://github.com/ENGS-106/engs-106-'Your_Git_Username'
+You should now be able to see your name online on your private repository: https://github.com/ENGS-96-summer25/engs96-'Your_Git_Username'
 
 ### Workflow
 In general, you should use Git to commit your edits as often as possible. This will help you with backtracking bugs and also serve as a backup mechanism.
