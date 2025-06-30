@@ -39,7 +39,7 @@ Then you can **create your own private online repository** by following this lin
 
 In the next step you need to clone it to your local hard drive
 ```
-git clone --recursive https://github.com/ENGS-96/engs-96-'Your_Git_Username'.git 
+git clone --recursive https://github.com/ENGS-96-summer25/engs96-'Your_Git_Username'.git 
 ```
 'Your_Git_Username' needs to be replaced accordingly. This can take a moment.
 
@@ -47,7 +47,7 @@ git clone --recursive https://github.com/ENGS-96/engs-96-'Your_Git_Username'.git
 Next, cd into the newly created folder, and add the base assignment repository as a remote:
 ```
 cd engs-96-'Your_Git_Username'
-git remote add base https://github.com/ENGS-96/engs-96-summer25.git
+git remote add base https://github.com/ENGS-96-summer25/engs96-template.git
 git pull base main --allow-unrelated-histories
 ```
 Now you should have your local clone of the assignment repository ready. Have a look at the new repository folder and open the 'README.md'. It contains the text you are just reading. Please fill in your name and student number at the top of this file and save. Then you need to stage and commit this changed file:
