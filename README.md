@@ -3,8 +3,8 @@
 
 ## Student data
 
-Name: 'Christopher Kang'
-Email: 'christopher.kang.26@dartmouth.edu'
+Name: Christopher Kang
+Email: christopher.kang.26@dartmouth.edu
 
 Carefully follow the instructions below to setup your assignment repository.
 
