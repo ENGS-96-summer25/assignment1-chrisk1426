@@ -1,7 +1,7 @@
 # Assignment 1 — Linear Algebra Foundations
 
-**Student:** `<Your Name>`  
-**Dartmouth ID:** `<Your ID>`
+**Student:** `<Christopher Kang>`  
+**Dartmouth ID:** `<f006j44>`
 
 ---
 
@@ -99,6 +99,6 @@ The pseudo-inverse is used to solve linear systems when the inverse doesn’t ex
 ---
 
 **Happy coding!**  
-`<Your Name>`  
-`<Your ID>`
+`<Christopher Kang>`  
+`<f006j44>`
 
